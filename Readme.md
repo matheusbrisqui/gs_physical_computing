@@ -2,7 +2,7 @@
 
 Guilherme Rezende Bezerra RM: 95808 ||
 Gustavo Brisqui Martinez RM: 97969 ||
-Matheus Brisqui Martinez RM: 97892 ||
+Matheus Brisqui Martinez RM: 97892
 
 ## 🧠 Descrição do Problema
 
